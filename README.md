@@ -1,2 +1,2 @@
-# hana_scaleout
-HANA scaleout
+# SAP HANA Scaleout: Infrastructure as Code
+Important disclaimer: It is an individual project, it is an example and it does not represent the SAP infrastructure as code or any other initiatives from my employer Microsoft. It is not an official Microsoft artifact and it is not endorsed in any way by Microsoft. You should exercise your own judgement and prudence before using it. There is no one who is actively maintaining or supporting this project.
